@@ -5,4 +5,4 @@ This project will allow the multi material system ERCF-Enraged Rabbit Carot Feed
 
 I am running this project completely self funded but would like to encourage anybody willing to help acheive the goal to contribute https://gogetfunding.com/support-to-create/. 
 
-Any contrinbution will assist in making this project happen sooner with first itteration erxpected to be implemented in December 2023 and ready for testing. 
+Any contrinbution will assist in making this project happen sooner with first itteration expected to be implemented and ready for testing in December 2023 . 
